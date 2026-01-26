@@ -43,7 +43,7 @@ The application allows users to manage their income and expenses through separat
 
 - React (Hooks)
 - React Router
-- Context API
+- Context 
 - Material UI (MUI)
 - MUI X Date Pickers
 - Day.js

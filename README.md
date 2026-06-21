@@ -58,4 +58,4 @@ Practice real-world React patterns such as filtering logic, date handling, and g
 
 ---
 ## ⚙️ Design overview
-![Description](SmartBudget.png)
+![Description](SmartBudget1.png)

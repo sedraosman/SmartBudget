@@ -55,3 +55,7 @@ The application allows users to manage their income and expenses through separat
 ## 🎯 Purpose
 
 Practice real-world React patterns such as filtering logic, date handling, and global state management.
+
+---
+## ⚙️ Design overview
+![Description](SmartBudget.png)
